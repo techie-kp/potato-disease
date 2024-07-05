@@ -1,7 +1,4 @@
 tensorflow
 streamlit
 numpy
-io 
-PIL
 keras
-matplotlib.pyplot
